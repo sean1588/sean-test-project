@@ -1,0 +1,9 @@
+name: miniflux-4
+description: A Miniflux RSS service with a PostgreSQL backend.
+runtime: nodejs
+template:
+  description: A minimal Google Cloud TypeScript Pulumi program
+  important: true
+  config:
+    gcp:project:
+      description: The Google Cloud project to deploy into
