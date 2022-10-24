@@ -1,0 +1,16 @@
+event_data:
+  name: sfsaf
+hero:
+  title: hello test
+main:
+  presenters:
+    - name: sean holung
+      role: software engineer
+  learn:
+    - get started!!
+form:
+  hubspot_form_id: sfasfsadf
+title: test
+meta_desc: test
+preview_image: sasfsf.png
+aws_only: true
