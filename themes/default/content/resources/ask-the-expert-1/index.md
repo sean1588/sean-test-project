@@ -21,7 +21,7 @@ gated: true
 type: webinars
 external: false
 block_external_search_index: false
-aws_only: true
+aws_only: false
 title: lkjaslfjsalfj
 meta_desc: slfkjsfljsldajlfjslfjslfjaksljflksajfslkjflksajflksajflksajflksajfalskjfslakjlsfj
 url_slug: ask-the-expert-1
