@@ -10,8 +10,7 @@ main:
   sortable_date: 2022-10-27T18:10:00.000Z
 event_data: {}
 form:
-  hubspot_form_id: bdb2e44f-d0ff-4a57-97b4-b2467abf6a39
-  salesforce_campaign_id: 701Du0000009P9GIAU
+  hubspot_form_id: bdb2e44f-d0ff-4a
   gotowebinar_key: ""
 featured: false
 pre_recorded: false
